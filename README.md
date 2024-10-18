@@ -35,7 +35,7 @@ The dataset can be found at the UCI Machine Learning Repository: https://archive
 
 
 ### Tech Stack
-Python, Jupyter Notebook, Pandas, Plotly, Google Slides
+Python, Jupyter Notebook, Pandas, Plotly, Matplotlib, Google Slides
 
 
 ### Getting Started
